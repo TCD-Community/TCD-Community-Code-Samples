@@ -1,20 +1,17 @@
 /* 
-this template is a product and asset 
- produced by the TCD Community
-created by dean ukanah
+this template is a distribution of the TCD Community
 as directed by the MIT License, free to use 
-for personal and commercial purposes  
+for personal and commercial purposes 
 */
-
 
 *,
 *::before,
 *::after {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	-moz-osx-font-smoothing: grayscale;
-	-webkit-font-smoothing: antialiased;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
 }
 
 .container {
@@ -59,7 +56,7 @@ for personal and commercial purposes
     border-radius: 50%;
     background-color: #fff;
     opacity: 0.75;
-    transition: opacity ease 250ms;   
+    transition: opacity ease 250ms;
 }
 
 .slider-nav a:hover {
